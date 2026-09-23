@@ -1,4 +1,4 @@
-
+<img width="1905" height="511" alt="image" src="https://github.com/user-attachments/assets/aba5e033-e530-4ccb-97ed-51968763529d" />
 
 # TryHackMe: Unified Kill Chain & Threat Investigation — Full Walkthrough & Guide
 
