@@ -1,5 +1,3 @@
-# THM-Unified-Kill-Chain
-מדריך מקיף ושלם המתעד את תהליך החקירה ב-Kibana SIEM ומיפוי שלבי התקיפה לפי מסגרת העבודה Unified Kill Chain (UKC). המדריך מותאם לפרסום ישיר ב-GitHub כקובץ README.md.
 
 
 # TryHackMe: Unified Kill Chain & Threat Investigation — Full Walkthrough & Guide
