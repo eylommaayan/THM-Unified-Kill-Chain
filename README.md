@@ -5,6 +5,7 @@
 מדריך מקיף ושלם המתעד את תהליך החקירה ב-Kibana SIEM ומיפוי שלבי התקיפה לפי מסגרת העבודה **Unified Kill Chain (UKC)**. המדריך מותאם לפרסום ישיר ב-GitHub כקובץ `README.md`.
 <img width="1905" height="511" alt="image" src="https://github.com/user-attachments/assets/aba5e033-e530-4ccb-97ed-51968763529d" />
 ---
+<img width="1907" height="525" alt="image" src="https://github.com/user-attachments/assets/27e91542-8e40-414a-9518-2f3b589f8228" />
 
 <img width="1905" height="511" alt="image" src="https://github.com/user-attachments/assets/aba5e033-e530-4ccb-97ed-51968763529d" />
 
