@@ -4,6 +4,9 @@
 
 # TryHackMe: Unified Kill Chain & Threat Investigation — Full Walkthrough & Guide
 
+<img width="1905" height="511" alt="image" src="https://github.com/user-attachments/assets/99988547-a8ef-4752-a1d1-62dfcd260df0" />
+
+
 מדריך מקיף ושלם המתעד את תהליך החקירה ב-Kibana SIEM ומיפוי שלבי התקיפה לפי מסגרת העבודה **Unified Kill Chain (UKC)**. המדריך מותאם לפרסום ישיר ב-GitHub כקובץ `README.md`.
 
 ---
